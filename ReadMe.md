@@ -21,7 +21,7 @@ $ export LD_LIBRARY_PATH=../lib
 ```sh
 $ make main
 ```
-  - Reading text from "input.txt" and print to "output.txt" (create new file input.txt to input)
+  - Reading text from "input.txt" and print to "output.txt" (create new file input.txt to input, the input.txt must have content)
 ```sh
 $ touch input.txt
 $ ./main
